@@ -27,7 +27,7 @@ public class Ejercicio6Unidad8 {
             do {
                 System.out.println("Que opción desea realizar?");
                 System.out.println("Opcion 1: Agregar un nuevo producto al sistema");
-                System.out.println("Opcion 2: Ver la lista de Productos");
+                System.out.println("Opcion 2: Ver la lista de productos");
                 System.out.println("Opcion 3: Salir del programa");
 
                 opcion = leer.nextInt();
